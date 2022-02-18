@@ -1,2 +1,2 @@
 # Crypto
-Web site for any cryptocurrency
+Website for any cryptocurrency
